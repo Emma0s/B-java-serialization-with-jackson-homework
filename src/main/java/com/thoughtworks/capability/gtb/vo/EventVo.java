@@ -1,7 +1,6 @@
 package com.thoughtworks.capability.gtb.vo;
 
 import java.util.Date;
-
 import com.fasterxml.jackson.annotation.JsonUnwrapped;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import com.thoughtworks.capability.gtb.serializer.DateSerializer;
